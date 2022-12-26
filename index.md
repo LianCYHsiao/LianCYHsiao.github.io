@@ -1,4 +1,3 @@
-# Lian Hsiao
-## Publications
-### [MPX Cases in the European Union](https://liancyhsiao.github.io/Publications/mpx_cases_eu.html)
+# Publications
+## [MPX Cases in the European Union](https://liancyhsiao.github.io/Publications/mpx_cases_eu.html)
 May-August 2022
